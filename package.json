@@ -1,0 +1,25 @@
+{
+  "name": "build-fpc",
+  "version": "0.0.1",
+  "description": "Atom Build provider for the fpc compiler",
+  "keywords": [
+    "buildprovider",
+    "fpc",
+    "pascal",
+    "freepascal"
+  ],
+  "main": "lib/provider.js",
+  "repository": "https://github.com/atom/build-fpc",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "providedServices": {
+    "builder": {
+      "description": "FPC Build Package",
+      "versions": {
+        "2.0.0": "provideBuilder"
+      }
+    }
+  }
+}
