@@ -9,3 +9,9 @@ Recommended to use linter package as well
 https://atom.io/packages/linter
 
 On active .pas file press F7 to select build target. And select FPC build.
+
+If the build fails you can jump to the first fatal error by pressing F4.
+
+Linter support seems broken at the moment (sometimes displaying, sometimes not)
+
+Enjoy.
