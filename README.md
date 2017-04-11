@@ -1,5 +1,11 @@
 # build-fpc package
 
-FPC for the atom build package - work in progress
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+Requires 
+* atom-build - https://atom.io/packages/build
+* fpc - http://freepascal.org/
+
+Recommended to use linter package as well
+https://atom.io/packages/linter
+
+On active .pas file press F7 to select build target. And select FPC build.
