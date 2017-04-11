@@ -14,6 +14,6 @@ If the build fails you can jump to the first fatal error by pressing F4.
 
 Failed Build with Linter & Linter Minimap
 
-![FailedBuild](/screen/failed_build.jpg?raw=true "Optional Title")
+![FailedBuild](https://github.com/eisenwinter/atom-build-fpc/blob/master/screen/failed_build.PNG?raw=true)
 
 Enjoy.
