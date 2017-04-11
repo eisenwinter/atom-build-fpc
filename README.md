@@ -12,6 +12,8 @@ On active .pas file press F7 to select build target. And select FPC build.
 
 If the build fails you can jump to the first fatal error by pressing F4.
 
-Linter support seems broken at the moment (sometimes displaying, sometimes not)
+Failed Build with Linter & Linter Minimap
+
+![FailedBuild](/screen/failed_build.jpg?raw=true "Optional Title")
 
 Enjoy.
