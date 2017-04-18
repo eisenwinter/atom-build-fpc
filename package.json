@@ -1,6 +1,6 @@
 {
   "name": "build-fpc",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Atom Build provider for the fpc compiler",
   "keywords": [
     "buildprovider",
